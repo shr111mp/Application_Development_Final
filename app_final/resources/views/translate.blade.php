@@ -9,6 +9,7 @@
     * {
   padding: 0;
   margin: 0;
+  margin-top:20px;
   box-sizing: border-box;
   font-family: "Poppins", Lalezar, cursive, sans-serif;
 }
@@ -181,7 +182,6 @@ li,
 }
   </style>
 </head>
-
 <body>
   <div class="container">
     <div class="wrapper">
@@ -391,5 +391,4 @@ icons.forEach((icon) => {
 });
 </script>
 </body>
-
 </html>
