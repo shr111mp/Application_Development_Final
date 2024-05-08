@@ -1,3 +1,4 @@
+@extends('layout.navbar')
 <html lang="en">
 
 <head>
